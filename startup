@@ -1,0 +1,1 @@
+howlci.status("success", "Everything passed!")
